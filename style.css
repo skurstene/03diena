@@ -1,0 +1,11 @@
+a,p{
+    color:red;
+
+}
+#pasisveikinimas{
+    text-transform: capitalize;
+
+}
+li:nth-child(4){
+    color: blueviolet;
+}
